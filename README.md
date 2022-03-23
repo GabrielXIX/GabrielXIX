@@ -6,15 +6,10 @@ Estudiante de la carrera de Ingenieria en Sistemas Computacionales con conocimie
 Conocimientos:
 
 -C#
-
 -C++
-
 -SQL (MSSQLSERVER)
-
 -HTML
-
 -CSS
-
 -Javascript
 
 Horario:
