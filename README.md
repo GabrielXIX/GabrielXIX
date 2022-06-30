@@ -9,7 +9,7 @@ Conocimientos:
 
 -C++
 
--SQL (MSSQLSERVER)
+-SQL (MSSQLSERVER, MySQL)
 
 -HTML
 
@@ -18,5 +18,9 @@ Conocimientos:
 -Javascript
 
 -Arduino
+
+-Python
+
+-Django
 
 Contacto: alan.duenas193@tectijuana.edu.mx
