@@ -1,26 +1,17 @@
 # Perfil
-Descripción del perfil
 
-Estudiante de la carrera de Ingenieria en Sistemas Computacionales con conocimientos en Desarrollo de Software y Desarrollo Web Front-End
+Estudiante de Ingeniería en Sistemas en 7mo semestre con conocimientos en desarrollo de Software, bases de datos y autodidacta en desarrollo web actualmente aprendiendo **React** y **Django**.
 
-Conocimientos:
+### Lenguajes y herramientas:
+- C#
+- C++
+- JavaScript
+- Python
+- HTML
+- CSS (SASS)
+- SQL (MSSQLSERVER, MySQL)
+- Arduino
+- Figma
+- Git
 
--C#
-
--C++
-
--SQL (MSSQLSERVER, MySQL)
-
--HTML
-
--CSS
-
--Javascript
-
--Arduino
-
--Python
-
--Django
-
-Contacto: alan.duenas193@tectijuana.edu.mx
+Contacto: gabrie1_4401@hotmail.com
