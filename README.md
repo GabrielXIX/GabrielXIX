@@ -4,14 +4,14 @@ Estudiante de Ingeniería en Sistemas en 7mo semestre con conocimientos en desar
 
 ### Lenguajes y herramientas:
 - C#
-- C++
 - JavaScript
-- Python
 - HTML
 - CSS (SASS)
 - SQL (MSSQLSERVER, MySQL)
-- Arduino
+- C++
+- Python
 - Git
+- Arduino
 - Figma
 - Adobe Photoshop
 
