@@ -1,6 +1,6 @@
 # Perfil
 
-Estudiante de Ingeniería en Sistemas en 7mo semestre con conocimientos en desarrollo de Software, bases de datos y autodidacta en desarrollo web actualmente aprendiendo **React** y **Django**.
+Estudiante de Ingeniería en Sistemas en 7mo semestre con conocimientos en desarrollo de Software, bases de datos y autodidacta en desarrollo web actualmente aprendiendo **React**, **Django** y **Bootstrap**.
 
 ### Lenguajes y herramientas:
 - C#
@@ -11,7 +11,8 @@ Estudiante de Ingeniería en Sistemas en 7mo semestre con conocimientos en desar
 - CSS (SASS)
 - SQL (MSSQLSERVER, MySQL)
 - Arduino
-- Figma
 - Git
+- Figma
+- Adobe Photoshop
 
 Contacto: gabrie1_4401@hotmail.com
